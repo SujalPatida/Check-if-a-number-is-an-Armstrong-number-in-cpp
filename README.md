@@ -2,7 +2,7 @@
 #include <cmath>   // for pow() function
 using namespace std;
 
-int main() {
+Int main() {
     int num, original, remainder, n = 0;
     double result = 0.0;
 
